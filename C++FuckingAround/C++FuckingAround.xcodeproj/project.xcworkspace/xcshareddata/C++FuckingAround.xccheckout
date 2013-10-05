@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8F41F7A5-4F37-4A1A-911E-678484EE7F01</string>
+	<key>IDESourceControlProjectName</key>
+	<string>C++FuckingAround</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F95EEE13-0F58-46C0-87D5-E14486443597</key>
+		<string>https://github.com/Comrod/C--Development.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>C++FuckingAround/C++FuckingAround.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F95EEE13-0F58-46C0-87D5-E14486443597</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Comrod/C--Development.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F95EEE13-0F58-46C0-87D5-E14486443597</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F95EEE13-0F58-46C0-87D5-E14486443597</string>
+			<key>IDESourceControlWCCName</key>
+			<string>C++Development</string>
+		</dict>
+	</array>
+</dict>
+</plist>
